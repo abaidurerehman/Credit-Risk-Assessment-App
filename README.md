@@ -1,7 +1,3 @@
-Sure! Here's the full, professional README content you can directly copy and paste into your GitHub repository:
-
----
-
 # 💳 Credit Risk Assessment App
 
 This is a Streamlit-based web application that predicts the credit risk of a customer using a trained machine learning model (XGBoost). It is designed to assist financial institutions in identifying potential defaulters.
